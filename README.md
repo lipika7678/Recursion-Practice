@@ -1,16 +1,33 @@
 # Recursion-Practice
  This repo contains my learning journey of recursion in Java.
  
- ## 🧠 What I Learned
-- Base case
-- Faith step
-- Recursive call
-- Combining result
+ 📌1. What you learned today
+ 
+ # Recursion Practice 🔁
 
-## ✅ Practice Problems
+Today I learned about recursion in Java.
+
+## Key Concepts:
+- ✅ Base Case
+- 🔁 Recursive Case
+- 🙏 Faith Step (trusting recursion to work for smaller inputs)
+
+📌 2. What problems you solved
+
+## Problems Practiced
 - Factorial
 - Fibonacci
 - Sum of array
-- x^n
+- Power of a number
+📌 3. Code Explanation
 
-## 📅 Date: May 22, 2025
+## How Factorial Works
+- If n == 0 or 1 → return 1
+- Else → n * factorial(n-1)
+📌 4. Future Plans
+  
+## Next Steps 🚀
+- Practice backtracking
+- Write dry run notes
+- Solve 10 more recursion problems
+
